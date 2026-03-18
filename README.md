@@ -10,7 +10,9 @@ This repository serves as a template for World Bank projects. It provides a stan
 
 1. Use this template to create a new repository by clicking **"Use this template"** on GitHub.
 2. Update this `README.md` with your project's name and description.
-3. Review and update the `LICENSE` and [World Bank IGO Rider](WB-IGO-RIDER.md) as needed.
+3. Add relevant **topics** to the repository (via the repository Settings or the About section on GitHub).
+4. Add a **website link** in the repository's About section (if a project website is available).
+5. Review and update the `LICENSE` and [World Bank IGO Rider](WB-IGO-RIDER.md) as needed.
 
 ## License
 
